@@ -1,0 +1,431 @@
+level 1 hi
+hueco 0 2 color 0
+bloque 0 0 color 0 down
+
+level 2 hi2
+hueco 0 0 color 1
+hueco 2 2 color 0	
+bloque 0 2 color 1 up
+bloque 2 0 color 0 down
+
+level 3 hi3
+hueco 0 1 color 1
+hueco 0 2 color 0
+bloque 0 0 color 1 down
+bloque 0 3 color 0 up
+
+level 4 order
+hueco 0 0 color 0
+hueco 0 1 color 1
+hueco 2 2 color 2
+bloque 0 2 color 0 up
+bloque 2 1 color 1 left
+bloque 2 0 color 2 down
+
+level 5 order2
+hueco 2 0 color 0
+hueco 1 0 color 1
+hueco 1 1 color 2
+bloque 0 0 color 0 right
+bloque 1 2 color 1 up
+bloque 3 1 color 2 left
+
+level 6 stupidpush
+hueco 0 2 color 0
+hueco 0 3 color 2
+bloque 0 0 color 0 down
+bloque 0 1 color 2 up
+
+level 7 push
+hueco 0 3 color 0
+hueco 2 5 color 1
+bloque 2 0 color 1 down
+bloque 4 2 color 0 left
+
+level 8 stairs
+hueco 1 1 color 0
+hueco 2 2 color 2
+hueco 3 3 color 1
+bloque 0 1 color 1 right
+bloque 1 0 color 0 down
+bloque 2 1 color 2 down
+
+level 9 stairs2
+hueco 1 1 color 0
+hueco 2 2 color 1
+hueco 3 3 color 2
+bloque 0 1 color 1 right
+bloque 1 0 color 0 down
+bloque 2 1 color 2 down
+
+level 10 lift
+hueco 0 0 color 2
+hueco 1 1 color 1
+hueco 2 3 color 0
+bloque 2 2 color 2 up
+bloque 4 1 color 1 left
+bloque 3 0 color 0 down
+
+level 11 presq
+giro 0 2 right
+giro 2 2 up
+hueco 2 0 color 1
+bloque 0 0 color 1 down
+
+level 12 sq
+giro 0 2 right
+giro 2 2 up
+hueco 2 0 color 3
+hueco 3 0 color 2
+bloque 0 0 color 3 down
+bloque 0 2 color 2 down
+
+level 13 nobrainer
+giro 3 1 left
+giro 0 1 right
+giro 2 1 up
+hueco 1 0 color 3
+hueco 2 0 color 1
+bloque 0 1 color 3 down
+bloque 2 1 color 1 down
+
+level 14 crosst
+giro 2 2 right
+hueco 0 2 color 2
+hueco 1 2 color 0
+hueco 3 2 color 1
+bloque 2 0 color 0 down
+bloque 4 2 color 1 left
+bloque 2 4 color 2 up
+
+level 15 t
+giro 2 0 down
+hueco 1 2 color 0
+hueco 2 2 color 1
+hueco 3 2 color 2
+bloque 0 0 color 0 right
+bloque 4 0 color 1 left
+bloque 2 4 color 2 up
+
+level 16 rotation
+giro 1 0 down
+giro 3 1 left
+hueco 1 2 color 3
+hueco 1 1 color 2
+bloque 0 2 color 3 right
+bloque 2 3 color 2 up
+
+level 17 asymm
+giro 1 1 down
+hueco 0 4 color 3
+hueco 1 0 color 2
+hueco 1 2 color 1
+bloque 3 3 color 3 left
+bloque 1 1 color 2 down
+bloque 2 5 color 1 up
+
+level 18 herewego
+giro 0 0 right
+giro 2 0 down
+giro 2 1 left
+giro 1 2 up
+hueco 0 1 color 0
+hueco 3 1 color 1
+bloque 0 0 color 0 down
+bloque 2 1 color 1 down
+
+level 19 preherewego
+giro 1 0 right
+giro 3 0 down
+giro 3 1 left
+giro 2 2 up
+hueco 2 1 color 0
+hueco 0 1 color 1
+bloque 3 0 color 0 down
+bloque 2 2 color 1 down
+
+level 20 clover
+hueco 0 0 color 0
+hueco 1 1 color 1
+hueco 2 2 color 2
+hueco 2 0 color 3
+bloque 1 0 color 2 down
+bloque 0 1 color 3 right
+bloque 2 1 color 0 left
+bloque 1 2 color 1 up
+
+level 21 preduced
+giro 0 0 down
+giro 0 1 right
+giro 3 0 left
+hueco 1 1 color 0
+hueco 1 2  color 1
+bloque 0 0 color 0 down
+bloque 2 2 color 1 up
+
+level 22 preduced2
+giro 0 0 down
+giro 0 1 right
+hueco 1 0 color 2
+hueco 1 1 color 0
+hueco 1 2 color 1
+bloque 0 0 color 0 down
+bloque 2 2 color 1 up
+bloque 3 0 color 2 left
+
+level 23 reduced
+giro 0 0 down
+giro 0 1 right
+giro 3 0 left
+giro 2 2 up
+hueco 1 1 color 0
+hueco 2 1 color 2
+hueco 3 1 color 1
+bloque 0 0 color 0 down
+bloque 3 0 color 1 down
+bloque 0 1 color 2 down
+
+level 24 reduced2
+giro 0 0 down
+giro 0 1 right
+giro 3 0 left
+giro 2 2 up
+hueco 1 1 color 0
+hueco 2 1 color 2
+hueco 3 1 color 1
+bloque 0 0 color 2 down
+bloque 3 0 color 1 down
+bloque 0 1 color 0 down
+
+level 25 reduced3
+giro 0 0 down
+giro 0 1 right
+giro 3 0 left
+giro 2 2 up
+hueco 1 2 color 2
+hueco 2 1 color 0
+hueco 3 2 color 1
+bloque 0 0 color 2 down
+bloque 3 0 color 1 down
+bloque 0 1 color 0 down
+
+level 26 recycle
+giro 0 0 down
+giro 0 1 right
+giro 3 0 left
+giro 4 0 left
+giro 3 1 up
+giro 4 1 up
+hueco 1 0 color 0
+hueco 2 0 color 1
+hueco 1 1 color 2
+hueco 2 1 color 3
+bloque 3 1 color 0 down
+bloque 3 0 color 1 down
+bloque 0 1 color 2 down
+bloque 0 0 color 3 down
+
+level 27 recycle2
+giro 0 0 down
+giro 0 2 right
+giro 2 0 left
+giro 0 4 up
+giro 2 2 up
+hueco 1 0 color 4
+hueco 0 1 color 2
+hueco 1 2 color 6
+hueco 2 1 color 7
+bloque 0 0 color 2 down
+bloque 0 2 color 4 down
+bloque 2 2 color 7 down
+bloque 2 0 color 6 down
+
+level 28 recycle3
+giro 2 0 left
+giro 0 0 down
+giro 2 4 up
+giro 0 2 up
+giro 0 3 down
+giro 0 4 right
+hueco 2 2 color 10
+hueco 2 3 color 12
+hueco 2 1 color 9
+hueco 0 1 color 11
+bloque 0 4 color 9 down
+bloque 2 4 color 10 down
+bloque 0 0 color 11 down
+bloque 2 0 color 12 down
+
+level 29 shuttle
+giro 0 2 right
+giro 4 1 left
+giro 2 0 down
+giro 2 4 up
+hueco 1 3 color 0
+hueco 2 3 color 1
+hueco 3 3 color 2
+bloque 1 0 color 1 down
+bloque 0 2 color 2 down
+bloque 4 1 color 0 down
+
+level 30 shuttle2
+giro 0 2 right
+giro 4 1 left
+giro 3 0 down
+giro 3 4 up
+hueco 1 3 color 0
+hueco 2 3 color 1
+hueco 3 3 color 2
+bloque 1 0 color 2 down
+bloque 0 2 color 0 down
+bloque 4 1 color 1 down
+
+level 31 shuttle5
+giro 1 1 right
+giro 3 2 left
+giro 2 0 down
+giro 2 4 up
+hueco 0 2 color 1
+hueco 2 2 color 0
+hueco 4 2 color 2
+bloque 2 0 color 1 down
+bloque 1 1 color 2 down
+bloque 3 2 color 0 down
+
+level 32 spiral
+hueco 0 0 color 0
+hueco 1 1 color 1
+hueco 2 2 color 2
+giro 0 2 down
+giro 3 3 left
+giro 2 4 up
+giro 0 5 right
+giro 3 5 up
+giro 1 3 down
+giro 1 4 right
+bloque 0 2 color 0 down
+bloque 2 4 color 2 down
+bloque 1 3 color 1 down
+
+level 33 spiral2
+hueco 2 -1 color 0
+hueco 2 1 color 1
+hueco 2 3 color 2
+giro 0 2 down
+giro 3 3 left
+giro 2 4 up
+giro 0 5 right
+giro 3 5 up
+giro 1 3 down
+giro 1 4 right
+bloque 0 2 color 0 down
+bloque 2 4 color 2 down
+bloque 1 3 color 1 down
+
+level 34 windmill
+giro 2 0 down
+giro 4 2 left
+giro 2 4 up
+hueco 2 1 color 0
+hueco 3 2 color 1
+hueco 2 3 color 2
+hueco 1 2 color 3
+bloque 2 0 color 1 down
+bloque 4 2 color 2 down
+bloque 2 4 color 3 down
+bloque 0 2 color 0 right
+
+level 35 shirt
+giro 0 2 right
+giro 1 0 down
+giro 1 4 up
+giro 4 3 left
+hueco 2 0 color 0
+bloque 0 2 color 0 down
+bloque 1 0 color 1 down
+bloque 4 1 color 2 down
+
+level 36 shirt2
+giro 0 2 right
+giro 1 0 down
+giro 1 4 up
+giro 4 3 left
+hueco 0 1 color 1
+bloque 0 2 color 0 down
+bloque 1 0 color 1 down
+bloque 4 1 color 2 down
+
+level 37 shirtDouble
+giro 0 2 right
+giro 1 0 down
+giro 1 4 up
+giro 4 3 left
+hueco 2 0 color 0
+hueco 0 1 color 1
+bloque 0 2 color 0 down
+bloque 1 0 color 1 down
+bloque 4 1 color 2 down
+
+level 38 paper
+giro 0 0 down
+giro 3 0 left
+giro 0 3 right
+giro 2 3 up
+hueco 0 2 color 0
+hueco 0 1 color 1
+hueco 1 0 color 2
+bloque 2 3 color 1 down
+bloque 0 3 color 0 down
+bloque 0 0 color 2 down
+ 
+
+level 39 splinter
+hueco 0 0 color 0
+hueco 1 0 color 1
+hueco 2 0 color 2
+giro 0 1 down
+giro 0 3 right
+giro 2 3 up
+giro 3 1 left
+bloque 0 1 color 1 down
+bloque 0 3 color 2 down
+bloque 2 3 color 0 down
+
+level 40 splinter2
+hueco 0 0 color 1
+hueco 1 0 color 0
+hueco 2 0 color 2
+giro 1 1 down
+giro 1 3 right
+giro 3 3 up
+giro 4 1 left
+bloque 1 1 color 1 down
+bloque 1 3 color 2 down
+bloque 3 3 color 0 down
+
+level 41 elegant
+giro 1 0 down
+giro 0 2 right
+giro 3 1 left
+giro 2 3 up
+hueco 0 1 color 1
+hueco 2 0 color 3
+hueco 3 2 color 2
+hueco 1 3 color 0
+bloque 0 2 color 1 down
+bloque 2 3 color 0 down
+bloque 3 1 color 2 down
+bloque 1 0 color 3 down
+
+level 42 elegant2
+giro 1 0 down
+giro 0 3 right
+giro 3 4 up
+giro 4 1 left
+hueco 2 0 color 2
+hueco 3 0 color 0
+hueco 4 0 color 3
+bloque 2 4 color 2 right
+bloque 0 4 color 3 right
+bloque 1 4 color 0 right
+

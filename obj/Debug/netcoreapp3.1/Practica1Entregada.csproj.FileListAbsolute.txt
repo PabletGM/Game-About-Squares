@@ -1,0 +1,26 @@
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.exe
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.deps.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.runtimeconfig.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.runtimeconfig.dev.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.csprojAssemblyReference.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.AssemblyInfoInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.AssemblyInfo.cs
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.csproj.CoreCompileInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1º CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.genruntimeconfig.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.csprojAssemblyReference.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.AssemblyInfoInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.AssemblyInfo.cs
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.csproj.CoreCompileInputs.cache
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.exe
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.deps.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.runtimeconfig.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.runtimeconfig.dev.json
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.dll
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\bin\Debug\netcoreapp3.1\Practica1Entregada.pdb
+C:\Users\pgmla\Desktop\UCM VIDEOJUEGOS\1CARRERA\Segundo Cuatrimestre\FP2\AÑO NUEVO\Practica1\PracticaEntregada\Practica1Entregada\obj\Debug\netcoreapp3.1\Practica1Entregada.genruntimeconfig.cache
